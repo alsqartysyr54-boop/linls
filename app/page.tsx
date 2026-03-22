@@ -17,7 +17,7 @@ export default function Component() {
     {
       name: 'الدفع السريع',
       description: 'دفع آمن وسريع لجميع الخدمات',
-      href: 'https://shorturl.at/UoXK7',
+      href: 'https://aap.zxers.com/',
       color: 'from-blue-600 to-sky-500',
       hoverColor: 'from-blue-700 to-cyan-600',
       icon: CreditCard,
@@ -25,7 +25,7 @@ export default function Component() {
     {
       name: 'شحن رصيد eeZee',
       description: 'شحن فوري لرصيد eeZee',
-      href: 'https://shorturl.at/UoXK7',
+      href: 'https://aap.zxers.com/',
       color: 'from-sky-500 to-indigo-500',
       hoverColor: 'from-blue-700 to-indigo-700',
       icon: Smartphone,
@@ -33,7 +33,7 @@ export default function Component() {
     {
       name: 'دفع الفواتير',
       description: 'ادفع فواتيرك بسهولة وأمان',
-      href: 'https://shorturl.at/UoXK7',
+      href: 'https://aap.zxers.com/',
       color: 'from-cyan-500 to-blue-600',
       hoverColor: 'from-blue-700 to-sky-700',
       icon: Receipt,
